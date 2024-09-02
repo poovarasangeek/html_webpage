@@ -1,0 +1,42 @@
+.one{
+  margin:0px;
+  background-color:deepskyblue;
+  color: white;
+  text-align:center;
+  padding:10px;
+  font-size:37px;
+
+
+}
+
+.two {
+  background-color: deepskyblue;
+  color: white;
+  border:0px;
+  font-size:17px;
+  padding:4px;
+
+}
+
+.tw {
+  background-color: deepskyblue;
+  color: white;
+  border:0px;
+  font-size:17px;
+  padding:4px;
+  margin-left:25px;
+  margin-top:8px;
+}
+
+.t {
+  font-size:20px;
+  margin-top:35ox;
+}
+
+.c {
+  margin-top:30px;
+  background-color:deepskyblue;
+  padding:3px;
+  margin-top:10px;
+  color:white;
+}
