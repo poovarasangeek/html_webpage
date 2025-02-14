@@ -1,0 +1,53 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+.one{
+  background-color:deepskyblue;
+  color: white;
+  text-align:center;
+  padding:10px;
+  font-size:37px;
+  position: fixed;
+  width: 100%;
+  display: block;
+
+}
+.two {
+  background-color: deepskyblue;
+  color: white;
+  border: 0;
+  font-size:17px;
+  padding:4px;
+  border-radius:4px;
+
+}
+
+.tw {
+  background-color: deepskyblue;
+  color: white;
+  border:0px;
+  font-size:17px;
+  padding:4px;
+  margin-left:25px;
+  margin-top:8px;
+  border-radius: 4px;
+}
+
+.c {
+  background-color:deepskyblue;
+  padding:10px;
+  bottom:0;
+  color:white;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+.rows{
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%)
+}
